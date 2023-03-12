@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/skilled-page/static/css/main.c705bfca.css",
+    "main.js": "/skilled-page/static/js/main.988a5397.js",
+    "index.html": "/skilled-page/index.html",
+    "main.c705bfca.css.map": "/skilled-page/static/css/main.c705bfca.css.map",
+    "main.988a5397.js.map": "/skilled-page/static/js/main.988a5397.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c705bfca.css",
+    "static/js/main.988a5397.js"
+  ]
+}
